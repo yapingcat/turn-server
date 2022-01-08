@@ -6,7 +6,7 @@ import (
 	"net"
 	"strconv"
 
-	"../../goturn"
+	goturn "github.com/yapingcat/turn-server"
 )
 
 func main() {

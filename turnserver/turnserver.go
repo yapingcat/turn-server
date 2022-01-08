@@ -7,7 +7,7 @@ import (
 	"net"
 	"strconv"
 
-	"../../goturn"
+	goturn "github.com/yapingcat/turn-server"
 	"gopkg.in/ini.v1"
 )
 
